@@ -1,0 +1,14 @@
+.jumbotron {
+  margin-bottom:  80px;
+  background-image: url(/home/njoroge/Desktop/moringa/Roll-the-dice/img/rollingdice.gif);
+  color: white
+}
+.container {
+  background-color: #0e1011;
+}
+button {
+  margin-bottom: 200px;
+}
+form {
+  color: white;
+}
