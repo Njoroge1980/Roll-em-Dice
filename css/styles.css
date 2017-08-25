@@ -1,6 +1,6 @@
 .jumbotron {
   margin-bottom:  80px;
-  background-image: url(/home/njoroge/Desktop/moringa/Roll-the-dice/img/rollingdice.gif);
+  background-image: url( .. /img/rollingdice.gif);
   color: white
 }
 .container {
